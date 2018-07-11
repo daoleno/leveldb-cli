@@ -1,0 +1,6 @@
+[X] CREATE DB
+[X] PUT mykey "Hello"
+[X] GET mykey
+[X] Delete mykey 
+
+[X] Handle CTRL-D
